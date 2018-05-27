@@ -2,6 +2,8 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/ELBLRq">css loader dots</a>
++ <a href="https://codepen.io/TomaszPieta/pen/RyzzGv">css flex menu</a>
 + <a href="https://codepen.io/TomaszPieta/pen/YLoLZw">css hamburger</a>
 + <a href="https://codepen.io/TomaszPieta/pen/xjXwyY" target="_blank">css block centering</a>
 + <a href="https://codepen.io/TomaszPieta/pen/XZRNra" target="_blank">css grid first</a>
